@@ -7,3 +7,6 @@ I make this and have fun with it, all projects here can be used openly and publi
 
 Thanks,
 N
+
+# New Module
+Example Module
